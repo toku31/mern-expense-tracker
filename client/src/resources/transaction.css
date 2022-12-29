@@ -1,0 +1,35 @@
+.filter {
+  box-shadow: 0 0 2px gray;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+
+.transaction-form label{
+  color: rgba(0, 0, 0, 0.77)!important;
+}
+
+/* .amount:focus{
+  color: red
+} */
+
+.view-switch {
+  border: 1px solid rgba(0, 0, 0, 0.736);
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.view-switch svg {
+  cursor: pointer;
+}
+
+.active-icon {
+  color: black;
+  /* color: greenyellow; */
+  cursor: pointer;
+}
+
+.inactive-icon {
+  color: #ccc;
+  /* color: red; */
+  cursor: pointer;
+}
